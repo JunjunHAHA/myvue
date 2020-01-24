@@ -6,7 +6,7 @@ import MintUI from 'mint-ui'
 import 'mint-ui/lib/style.css'
 import '../lib/MUI/css/mui.min.css'
 // import '../lib/MUI/js/mui.js'
-
+//test
 import { Header } from 'mint-ui';
 Vue.component(Header.name, Header);
 
